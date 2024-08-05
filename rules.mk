@@ -1,0 +1,2 @@
+SPLIT_KEYBOARD = yes
+DEFAULT_FOLDER = sofle/rev1
