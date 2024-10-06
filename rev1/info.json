@@ -1,5 +1,5 @@
 {
-    "keyboard_name": "Sofle Ergomech",
+    "keyboard_name": "Sofle Hybrid",
     "manufacturer": "Ergomech Store",
     "url": "https://github.com/josefadamcik/SofleKeyboard",
     "maintainer": "Ergomech Store <admin@ergomech.store>",
@@ -358,22 +358,22 @@
                     "y": 4
                 },
                 {
-                    "matrix": [11,3],
+                    "matrix": [11,5],
                     "x": 8,
                     "y": 5.5
                 },
                 {
-                    "matrix": [11,2],
+                    "matrix": [11,4],
                     "x": 7,
                     "y": 6.5
                 },
                 {
-                    "matrix": [11,5],
+                    "matrix": [11,3],
                     "x": 8,
                     "y": 6.5
                 },
                 {
-                    "matrix": [11,4],
+                    "matrix": [11,2],
                     "x": 9,
                     "y": 6.5
                 },
