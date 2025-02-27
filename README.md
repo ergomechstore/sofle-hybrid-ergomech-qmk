@@ -15,9 +15,11 @@ The firmware is fully supported by VIAL, this is the firmware folder for compili
 
 - Download this repo and unzip it
 
+- Rename the folder to `sofle_ergomech_qmk`
+
 - Clone [VIAL-QMK repo](https://github.com/vial-kb/vial-qmk)
 
-- Copy the Newdox folder to `vial-qmk/keyboards`
+- Copy this repo folder to `vial-qmk/keyboards`
 
 - Compile the firmware: `qmk compile -kb sofle_ergomech_qmk -km vial`
 
