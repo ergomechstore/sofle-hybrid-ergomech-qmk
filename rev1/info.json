@@ -1,5 +1,5 @@
 {
-    "keyboard_name": "Sofle Hybrid",
+    "keyboard_name": "Sofle Ergomech",
     "manufacturer": "Ergomech Store",
     "url": "https://github.com/josefadamcik/SofleKeyboard",
     "maintainer": "Ergomech Store <admin@ergomech.store>",
@@ -37,13 +37,34 @@
         ]
     },
     "split": {
+        "matrix_pins": {
+            "right": {
+        "cols": [
+            "F6",
+            "F7",
+            "B1",
+            "B3",
+            "B2",
+            "B6"
+        ],
+
+        "rows":[
+            "C6",
+            "D7",
+            "E6",
+            "B4",
+            "B5",
+            "F5"
+                ]
+            }
+        },
         "soft_serial_pin": "D2",
         "encoder": {
             "right": {
                 "rotary": [
                     {
-                        "pin_a": "F4",
-                        "pin_b": "F5",
+                        "pin_a": "D4",
+                        "pin_b": "F4",
                         "resolution": 2
                     }
                 ]
@@ -333,47 +354,47 @@
                     "y": 4
                 },
                 {
-                    "matrix": [10,5],
+                    "matrix": [10,4],
                     "x": 9.75,
                     "y": 4
                 },
                 {
-                    "matrix": [10,4],
+                    "matrix": [10,3],
                     "x": 10.75,
                     "y": 4
                 },
                 {
-                    "matrix": [10,3],
+                    "matrix": [10,2],
                     "x": 11.75,
                     "y": 4
                 },
                 {
-                    "matrix": [10,2],
+                    "matrix": [10,1],
                     "x": 12.75,
                     "y": 4
                 },
                 {
-                    "matrix": [10,1],
+                    "matrix": [10,0],
                     "x": 13.75,
                     "y": 4
                 },
                 {
-                    "matrix": [11,5],
+                    "matrix": [11,3],
                     "x": 8,
                     "y": 5.5
                 },
                 {
-                    "matrix": [11,4],
+                    "matrix": [11,2],
                     "x": 7,
                     "y": 6.5
                 },
                 {
-                    "matrix": [11,3],
+                    "matrix": [11,5],
                     "x": 8,
                     "y": 6.5
                 },
                 {
-                    "matrix": [11,2],
+                    "matrix": [11,4],
                     "x": 9,
                     "y": 6.5
                 },
