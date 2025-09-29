@@ -21,7 +21,9 @@ The firmware is fully supported by VIAL, this is the firmware folder for compili
 
 - Copy this repo folder to `vial-qmk/keyboards`
 
-- Compile the firmware: `qmk compile -kb sofle_ergomech_qmk -km vial`
+- run `make git-submodule`
+
+- Compile the firmware: `qmk compile -kb sofle_ergomech_qmk -km vial -e CONVERT_TO=promicro_rp2040`
 
 ### How to flash the firmware
 
